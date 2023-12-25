@@ -66,9 +66,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">자기 소개</h2>
           <p className="text-base lg:text-lg">
-            나는 '빌렉바타르'이다. 96년에 태어났다. 2014년 'Mongolian University
-            of Science and Technolog'에 입학하고 컴퓨터 과학을 전공했다.
-            2018년에 졸업했다. 그다음에 'Unitel LLC'에 취칙하고 5년간 다니었다.
+            나는 `빌렉바타르`이다. 96년에 태어났다. 2014년 `Mongolian University
+            of Science and Technolog`에 입학하고 컴퓨터 과학을 전공했다.
+            2018년에 졸업했다. 그다음에 `Unitel LLC`에 취칙하고 5년간 다니었다.
             그 동안 안드로이드 TV 애플리케이션, 웹사이트 프론트엔드, 백엔드에서
             경험했다. 취직하려고 한국에 2023년 3개월에 왔다. 그리고 취직하기
             위해서 한국어를 배우고 있다.

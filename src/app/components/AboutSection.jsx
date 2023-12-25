@@ -28,7 +28,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>
-          2014 - 2018 - Completed the Bachelor's Program in the Graduate School
+          2014 - 2018 - Completed the Bachelor`s Program in the Graduate School
           of Software at Mongolian University of Science and Technology
         </li>
         <li>
